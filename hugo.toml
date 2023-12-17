@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Wonhee Lee (Tershire)'
+theme = 'hugo-liftoff'
