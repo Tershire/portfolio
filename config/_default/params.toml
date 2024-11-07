@@ -19,7 +19,7 @@ subtitle = "My name is Wonhee Lee \n Spatial AI"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "images/profile_photo.png"
+src = "images/profile_photo.jpg"
 
 [article]
 headingAnchor = false
