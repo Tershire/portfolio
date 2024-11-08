@@ -1,7 +1,7 @@
 ---
 title: "CV"
 date: 2024-11-08
-layout: "archives"
+layout: "single"
 slug: "cv"
 menu:
     main:
