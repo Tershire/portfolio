@@ -1,8 +1,8 @@
 ---
 title: "CV"
 date: 2024-11-08
-layout: "single"
-slug: "single"
+layout: "archives"
+slug: "cv"
 menu:
     main:
         weight: 2
