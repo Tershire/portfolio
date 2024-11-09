@@ -1,7 +1,7 @@
 ---
 title: "Professional Projects"
 date: 2024-11-09
-layout: "list"
+layout: "list-tershire"
 slug: "professional_projects"
 menu:
     main:

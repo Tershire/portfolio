@@ -1,7 +1,7 @@
 ---
 title: "Personal Projects"
 date: 2024-11-09
-layout: "list"
+layout: "list-tershire"
 slug: "personal_projects"
 menu:
     main:
