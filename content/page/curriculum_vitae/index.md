@@ -18,10 +18,10 @@ window.mobileCheck = function() {
 };
 
 if (window.mobileCheck()) {
-    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="178" height="288">')
+    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="300" height="486">')
 }
 else {
-    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="1110" height="1796">')
+    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="1000" height="1618">')
 }
 </script>
 
