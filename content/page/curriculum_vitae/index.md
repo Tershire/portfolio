@@ -17,11 +17,11 @@ window.mobileCheck = function() {
   return check;
 };
 
-if (window.mobileCheck) {
-    <embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="178" height="288">
+if (window.mobileCheck()) {
+    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="178" height="288">')
 }
 else {
-    <embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="1110" height="1796">
+    document.write('<embed src="https://drive.google.com/file/d/14nnMuFqk1JdIdYefVlxn4M5fjpwA9MsC/preview" width="1110" height="1796">')
 }
 </script>
 
